@@ -1,7 +1,5 @@
 ##搭一程 (LeToDev)
 
-=======
-
 ![appPreview](http://www.wealift.com/images/code.gif)
 
 [下载最新版本]()
