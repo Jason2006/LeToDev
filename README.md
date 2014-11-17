@@ -1,7 +1,10 @@
 搭一程 (LeToDev)
+
 =======
 
 ![appPreview](http://www.wealift.com/images/code.gif)
+
+=======
 
 [下载最新版本]()
 
@@ -21,10 +24,13 @@
 
 版本不断优化中，更多体验，等你来发现！
 
+=======
 
 ###[预览](http://www.wealift.com/index.html)
 
 ![appPreview](http://www.wealift.com/images/about_pic_03_01.jpg)
+
+=======
 
 [去 Apple Store 下载](https://itunes.apple.com/us/app/da-yi-cheng/id904184904?l=zh&ls=1&mt=8)
 
