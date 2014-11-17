@@ -4,9 +4,9 @@
 
 ![appPreview](http://www.wealift.com/images/code.gif)
 
-=======
-
 [下载最新版本]()
+
+=======
 
 ###[描述](http://www.wealift.com/aboutUs/default.html)
 
